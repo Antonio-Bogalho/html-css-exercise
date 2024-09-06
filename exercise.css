@@ -61,3 +61,4 @@ ul,ol {
     grid-row: 0 / 2;
     grid-column: 1 / 5;
 }
+// make it more alternative platform friendly using media queries
